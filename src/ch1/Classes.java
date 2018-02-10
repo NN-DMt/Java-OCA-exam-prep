@@ -4,7 +4,7 @@ package ch1;
 // if a class has the public keyword the file 
 // must also be called the same as the public class
 public class Classes {
-	
+	 
 }
 
 class SecondClass {
